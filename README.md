@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @AeronSor
-- 👀 I’m interested in video games, drawing and music
-- 🌱 I’m currently learning C and Web Development
+🕮 - Fluent in English and Portuguese(BR) / Studying Japanese
+🎨 - My hobbies are, drawing, music production and cooking :)
+🌱 - I’m currently learning C and Web Development

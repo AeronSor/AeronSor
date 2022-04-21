@@ -2,4 +2,4 @@
 
 Local nerd who has too many hobbies for his own good.
 
-Constantly fiddling with my linux
+Constantly fiddling with my linux enviroment
